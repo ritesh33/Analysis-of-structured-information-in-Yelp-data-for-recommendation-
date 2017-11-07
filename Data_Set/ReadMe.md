@@ -1,2 +1,2 @@
-*** Yelp's Dataset: ***
+Yelp's Dataset: 
 
