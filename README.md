@@ -1,4 +1,4 @@
-# Analysis-of-structured-information-in-Yelp-data-for-recommendation-
+# User recommendation machine using Yelp data set. -
 
 Objective: The objective of this project is to build an application, which focuses on recommending set of users (friends) to user by making use of features that indicate similarity between users. The similarity between the users is determined by performing the clustering using the K-NN algorithm. The clusters of user who has same taste will be created based on calculating the difference between the attribute of each users and the minimum difference between the users, indicates the user have same taste and will be added in a single cluster.
 
