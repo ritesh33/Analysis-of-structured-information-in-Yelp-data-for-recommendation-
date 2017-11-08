@@ -12,4 +12,6 @@ Data set: The data provided by Yelp is made up of a collection of JSON objects w
 •	Average_stars: The number of stars given to the user
 •	Mutual friends: This attribute, compares friends between each user and calculated the percentage of the mutual friends. 
 
-K-NN algorithm was used to perform clustering and above attribute are used to find the hamming distance between each users. "K " in K-NN is the positive integer, which indicate the number of elements nearest to the centroid of the cluster.To test the performance of the application two parameter were used:•	Precision = (Number of friends in K) / K  •	Recall = Number of friends in K / Total number of friends (K is the parameter in K-NN)
+K-NN algorithm was used to perform clustering and above attribute are used to find the hamming distance between each users. "K " in K-NN is the positive integer, which indicate the number of elements nearest to the centroid of the cluster.To test the performance of the application two parameter were used:
+-> Precession
+-> Recall
