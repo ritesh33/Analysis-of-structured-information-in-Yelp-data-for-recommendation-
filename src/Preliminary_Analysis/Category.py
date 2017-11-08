@@ -1,5 +1,5 @@
 ##############################################################################################
-#  Return the Dictonary with userId as key with the category name the user reveiwed the most #
+#  Return the Dictonary with userId as key with the category_name the user reveiwed the most #
 ##############################################################################################							
 
 import numpy as np
